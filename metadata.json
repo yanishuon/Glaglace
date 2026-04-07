@@ -1,0 +1,7 @@
+{
+  "name": "Glaglace - Glaces Bio Artisanales",
+  "description": "Découvrez Glaglace, votre artisan glacier 100% bio et local. Des saveurs authentiques, des ingrédients responsables et une passion pour le goût.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
